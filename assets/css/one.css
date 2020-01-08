@@ -1,0 +1,29 @@
+.boxx {
+		background: rgba(255, 255, 255, 0.3);
+		border-radius: 4px;
+		margin-bottom: 2em;
+		overflow: hidden;
+		padding: 4em;}
+
+
+
+.boxx header h2{ margin: 0 0 .5em 0;
+	color: #ffffff; }
+
+.boxx header p{ color:#ff6699;  }
+.boxx p {color:#ffffff;margin: 0 0 2em 0;}
+
+
+
+	.data-bgg{background-position: center;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-attachment: fixed;}	
+
+.footerr{background-color: #ffb3d9;
+		color: #ff0080;
+		padding:5;
+		background: #ffb3d9;padding: 5px;}					
+
+
+		
